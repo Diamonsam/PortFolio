@@ -1,0 +1,148 @@
+body,
+html {
+    height: 100%;
+    margin: 0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 400;
+    color: grey;
+    background-color: #ffe0bd;
+}
+
+.main {
+    border: 5px solid rgb(218, 91, 32);
+    margin: 1%;
+    padding: 10px;
+}
+
+.header {
+    border: 1px solid black;
+    background-color: silver;
+}
+
+.propic {
+    height: 66vh;
+    width: 25vw;
+    /* border: 2px solid red; */
+}
+
+.name {
+    font-size: 9em;
+    position: absolute;
+    top: 4%;
+    left: 22%;
+    color: white;
+    letter-spacing: 10px;
+    /* border: 2px solid red; */
+    padding: 2px;
+}
+
+.job {
+    font-size: 80px;
+    position: relative;
+    top: -250px;
+    color: maroon;
+    /* border: 2px solid red; */
+    padding: 2px;
+}
+
+.desc {
+    font-size: 25px;
+    position: absolute;
+    top: 40%;
+    left: 27.5%;
+    color: white;
+    /* border: 2px solid red; */
+    width: 70%;
+    text-align: justify;
+    padding: 2px;
+}
+
+h2 {
+    text-align: center;
+}
+
+.headings {
+    /* border: 2px solid red; */
+    width: 48%;
+    color: maroon;
+    font-size: 30px;
+    padding: 1px;
+}
+
+.intro {
+    font-size: 20px;
+    color: lightslategray;
+}
+
+.subheadings {
+    font-size: 30px;
+}
+
+.details {
+    font-size: 20px;
+    color: lightslategray;
+    text-align: justify;
+    padding: 2px;
+}
+
+.tenure {
+    font-size: 25px;
+    color: black;
+}
+
+aside {
+    position: absolute;
+    top: 73%;
+    left: 50%;
+}
+
+.vl {
+    border-left: 6px solid black;
+    height: 3090px;
+    position: absolute;
+    top: 72.5%;
+    left: 49%;
+    margin-left: -3px;
+}
+
+table {
+    border-collapse: separate;
+    border-spacing: 0 1em;
+}
+
+.skills {
+    text-align: left;
+    padding-left: 10px;
+}
+
+.stars {
+    color: lightslategray;
+}
+
+.type {
+    font-size: 1rem;
+}
+
+.headings2 {
+    position: relative;
+    top: -1030px;
+    /* border: 2px solid red; */
+    width: 48vw;
+    color: maroon;
+    font-size: 30px;
+    padding: 1px;
+}
+
+li {
+    margin: 40px;
+    color: lightslategray;
+    font-weight: bold;
+}
+
+.sign {
+    margin-left: 17vw;
+}
+
+.sign2 {
+    margin-left: 20vw;
+}

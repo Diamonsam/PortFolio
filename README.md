@@ -1,9 +1,9 @@
-# RESUME - SAMIR MISTRY
+# SAMIR MISTRY
 
 ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
+- Software Engineer
++ Chef
+! Swimmer
+# Ex-Pharma Sales Manager
+@@ Dream Big & Learn continuously@@
 ```
