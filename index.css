@@ -108,6 +108,7 @@ aside {
 table {
     border-collapse: separate;
     border-spacing: 0 1em;
+    font-size: 25px;
 }
 
 .skills {
@@ -137,6 +138,7 @@ li {
     margin: 40px;
     color: lightslategray;
     font-weight: bold;
+    font-size: 25px;
 }
 
 .sign {
