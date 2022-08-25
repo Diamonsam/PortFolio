@@ -1,5 +1,4 @@
 # SAMIR MISTRY
-
 ```diff
 - Software Engineer
 + Chef
@@ -13,6 +12,9 @@
 - 💞️ I'm curently working as Front-End.
 - 📫 How to reach me @ = samir.mistry1@gmail.com
 <h1 align="center">Hi 👋, I'm Samir Mistry</h1>
+
+<p align="center"> <img src="https://media-exp1.licdn.com/dms/image/C4E16AQFyF8Z3sbmgYQ/profile-displaybackgroundimage-shrink_350_1400/0/1647949757630?e=1666828800&v=beta&t=3OKtPIilJpCIGDINilWlUW7hcMnJrxbchbbHgeUCv1Y" alt="diamonsam" /> </p>
+
 <h3 align="center">A passionate frontend developer learning my ways to Full-stack developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diamonsam&label=Profile%20views&color=0e75b6&style=flat" alt="diamonsam" /> </p>
