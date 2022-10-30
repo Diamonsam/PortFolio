@@ -13,7 +13,7 @@
 - 📫 How to reach me @ = samir.mistry1@gmail.com
 <h1 align="center">Hi 👋, I'm Samir Mistry</h1>
 
-<p align="center"> <img src="https://media-exp1.licdn.com/dms/image/C4E16AQFyF8Z3sbmgYQ/profile-displaybackgroundimage-shrink_350_1400/0/1647949757630?e=1666828800&v=beta&t=3OKtPIilJpCIGDINilWlUW7hcMnJrxbchbbHgeUCv1Y" alt="diamonsam" /> </p>
+<p align="center"> <img src="https://media.licdn.com/media/AAYQAQSOAAgAAQAAAAAAAB-zrMZEDXI2T62PSuT6kpB6qg.png" alt="Diamonsam" /> </p>
 
 <h3 align="center">A passionate frontend developer learning my ways to Full-stack developer.</h3>
 
