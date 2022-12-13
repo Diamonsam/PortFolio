@@ -1,58 +1,114 @@
-# SAMIR MISTRY
+<a align="center" href="https://maphub7.com" target="_blank">
+  <img width="1437" alt="Track Your Kingdom" src="https://user-images.githubusercontent.com/94591050/207311649-0be05241-fcce-4037-9547-7efd79871347.png">
+</a>
+
+# Maphub7
+
+<table>
+<tr>
+<td>
+  <p align="center">This repository contains the <strong>Maphub7</strong> source code.<br><br>
+  Maphub7 is a GPS tracking web app which monitors devices location via it's android & apple app installed on devices of your loved one's, your employee's or anyone else with their consent to track their location.</p>
+</td>
+</tr>
+</table>
+
+
+<p align="center">
+<a href="#introduction">Introduction</a> &nbsp;&bull;&nbsp;
+<a href="#installation">Installation</a> &nbsp;&bull;&nbsp;
+<a href="#developers-accounts">Developers accounts</a> &nbsp;&bull;&nbsp;
+<a href="#documentation">Documentation</a> &nbsp;&bull;&nbsp;
+<a href="#mobile-support">Mobile support</a>
+</p>
+
+# Introduction
+<b>Maphub7</b> is developed by Aviskan Inc. Aviskan Inc Was Founded In 2019 And To Establish Aviskan Inc We Provided Best Software And IT Company Solutions To As Many People As Possible.
+
+<b>Maphub7 Services :- </b>
+
+
+- Fetch and display real time location of registered devices on map.
+- Fetch and store location and path of the registered devices.
+- Fetch and track multiple devices using single account.
+- Help find lost devices current location.
+
+# Installation
+
+##### Web App
+<a href="https://maphub7.com">
+    <img width="154" alt="Screenshot 2022-12-13 at 3 56 01 PM" src="https://user-images.githubusercontent.com/94591050/207293009-450eceb3-e35b-4063-b02c-fc8501c700db.png">
+</a>
+
+##### Apple App
+<a href="https://maphub7.com">
+  <img width="154" alt="Screenshot 2022-12-13 at 4 01 40 PM" src="https://user-images.githubusercontent.com/94591050/207295648-59703c85-617f-4ad8-acc5-340b2cfde172.png">
+</a>
+
+##### Android App
+<a href="https://maphub7.com">
+  <img width="154" alt="Screenshot 2022-12-13 at 4 01 40 PM" src="https://user-images.githubusercontent.com/94591050/207298046-fa455002-b2e9-4482-9ec2-512e7568a1ac.png">
+</a>
+
+# Live Maphub7
+Visit Us At  :  https://www.maphub7.com
+
+# Site
+
+## Landing Page
+
+<a align="center" href="https://maphub7.com" target="_blank">
+<img width="1437" alt="Landing Page" src="https://user-images.githubusercontent.com/94591050/207307068-2b88198a-534f-4ba7-b300-77099209be49.png" >
+</a>
+
+# Developers Accounts
+
+## 1. Firebase Account.
+- Link :- [Firebase Login](https://firebase.google.com/)
++ What Is This Used For?
 ```diff
-- Software Engineer
-+ Chef
-! Swimmer
+- For Login Via Email & Signup User
+```
++ Username
+```diff
+this@gmail.com
+```
++ Password
+```diff
+thisIsPassword
+```
+
 # Ex-Pharma Sales Manager
 @@ Dream Big & Learn continuously@@
 ```
-- 👋 Hi, I’m @Samir Mistry aka Diamonsam
-- 👀 I’m interested for Full Stack.
-- 🌱 I’m currently learning Java
-- 💞️ I'm curently working as Front-End.
-- 📫 How to reach me @ = samir.mistry1@gmail.com
-<h1 align="center">Hi 👋, I'm Samir Mistry</h1>
+- What This Is Used For :- ```diff
+- 
+```
+- Link :- [Firebase Login](https://firebase.google.com/)
+- Username
+`this@gmail.com`
+- Password
+`ThisisPassword`
 
-<p align="center">  <img src="https://user-images.githubusercontent.com/94591050/204526692-067b1650-485b-424d-a58b-756fbf970e8b.png" alt="Diamonsam">
-</p>
 
-<h3 align="center">A passionate frontend developer learning my ways to Full-stack developer.</h3>
+### 2. Id And Password For Facebook Developer Account
+- What This Is Used For :- `For Login Via Facebook`
+- Link :- [Facebook Developer Login](https://developers.facebook.com/)
+- Username
+`maphub7@gmail.com`
+- Password
+`Chandu@16`
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=diamonsam&label=Profile%20views&color=0e75b6&style=flat" alt="diamonsam" /> </p>
+# Mobile Support
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=diamonsam" alt="diamonsam" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🔭 I’m currently working on [Maphub7](https://maphub7.com/Login.xqy)
-
-- 🌱 I’m currently learning **React, Java**
-
-- 👯 I’m looking to collaborate on [Web-Development-Basics](https://github.com/Diamonsam/Web-Development-Basics)
-
-- 👨‍💻 All of my projects are available at [https://github.com/Diamonsam](https://github.com/Diamonsam)
-
-- 💬 Ask me about **HTML, CSS, JavaScript**
-
-- 📫 How to reach me **samir.mistry1@gmail.com**
-
-- 📄 Know about my experiences [https://silly-crostata-2a589b.netlify.app/](https://silly-crostata-2a589b.netlify.app/)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/samir-mistry-984480235" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samir-mistry-984480235" height="30" width="40" /></a>
-<a href="https://fb.com/samir.mistry.733" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="samir.mistry.733" height="30" width="40" /></a>
-<a href="https://instagram.com/samir.mistry1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="samir.mistry1" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/samir_mistry1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="samir_mistry1" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/user3667t" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="user3667t" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=diamonsam&show_icons=true&locale=en&layout=compact" alt="diamonsam" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=diamonsam&show_icons=true&locale=en" alt="diamonsam" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=diamonsam&" alt="diamonsam" /></p>
-
+asdasda
+da
+sd
+as
+da
+sd
+as
+d
+asd
+as
+d
