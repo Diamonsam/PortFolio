@@ -260,4 +260,4 @@ If you'd like to request a new function, feel free to do so by opening an issue 
 - [FAQ?](https://maphub7.com/FrequentlyAskedQuestions.html)
 
 # © Copyright 
-- [Copyright © 2022 Aviskan Inc](https://www.aviskan.com)
+- [Copyright © 2022 Aviskan Inc](https://aviskan.com/)
