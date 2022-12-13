@@ -13,14 +13,14 @@
 </tr>
 </table>
 
-
 <p align="center">
-<a href="#introduction">Introduction</a> &nbsp;&bull;&nbsp;
-<a href="#installation">Installation</a> &nbsp;&bull;&nbsp;
-<a href="#site">Site</a> &nbsp;&bull;&nbsp;
-<a href="#mobile-support">Mobile support</a> &nbsp;&bull;&nbsp;
-<a href="#developers-accounts">Developers accounts</a> &nbsp;&bull;&nbsp;
-
+  <a href="#introduction">&nbsp;&#127942;&nbsp;Introduction</a> &nbsp;&#128295;&nbsp;
+  <a href="#installation">Installation</a> &nbsp;&#127759;&nbsp;
+  <a href="#site">Site</a> &nbsp;&#128241;&nbsp;
+  <a href="#mobile-support">Mobile support</a> &nbsp;&#128119;&nbsp;
+  <a href="#developers-accounts">Developers accounts</a> &nbsp;&#128421;&nbsp;
+  <a href="#team">Team</a> &nbsp;&#128221;&nbsp;
+  <a href="#policies">Policies</a> &nbsp;&#127942;&nbsp;
 </p>
 
 # Introduction
@@ -205,12 +205,15 @@ To fix a bug or enhance an existing module, follow these steps:
 
 # Bug / Feature Request
 
-If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an issue [here](https://github.com/iharsh234/WebApp/issues/new) by including your search query and the expected result.
+If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an issue [here](https://github.com/Rajsarj/Kingdom/issues/new) by including your search query and the expected result.
 
 If you'd like to request a new function, feel free to do so by opening an issue [here](https://github.com/Rajsarj/Kingdom/issues/new/choose). Please include sample queries and their corresponding results.
 
 # Built with 
 
+- [HTML](https://www.w3schools.com/html/) - HTML is the standard markup language for Web pages.
+- [CSS](https://www.w3schools.com/css/) - CSS is the language we use to style an HTML document. 
+- [Javascript](https://www.w3schools.com/js/) - JavaScript is the programming language of the Web.
 - [jQuery - Ajax](http://www.w3schools.com/jquery/jquery_ref_ajax.asp) - jQuery simplifies HTML document traversing, event handling, animating, and Ajax interactions for rapid web development.
 - [Google Map API](https://mapsplatform.google.com/) - Google Maps Platform. See where real-world insights and location solutions can take your business.
 - [Bootstrap](http://getbootstrap.com/) - Extensive list of components and  Bundled Javascript plugins.
@@ -222,7 +225,7 @@ If you'd like to request a new function, feel free to do so by opening an issue 
     <tr>
       <th rowspan="7">
         <img widht="200" height="200" src="https://avatars.githubusercontent.com/u/35051937?v=4">
-        <h2 align="center">AVINASH</h2>
+        <h2 align="center"><a align="center" href="https://github.com/Rajsarj" target="_blank">AVINASH</a></h2>
       </th>
     </tr>
     <tr>
@@ -230,22 +233,22 @@ If you'd like to request a new function, feel free to do so by opening an issue 
       <th><img widht="50" height="50" src="https://avatars.githubusercontent.com/u/92387531?v=4"></th>
     </tr>
     <tr>
-      <th>SAMIR </th>
-      <th>PRITI</th>
+      <th><a align="center" href="https://github.com/Diamonsam" target="_blank">SAMIR </th>
+      <th><a align="center" href="https://github.com/ppatel2777" target="_blank">PRITI</th>
     </tr>
     <tr>
       <th colspan="2"><img widht="50" height="50" src="https://avatars.githubusercontent.com/u/92387457?v=4"></th>
     </tr>
     <tr>
-      <th colspan="2">VIJYETA</th>
+      <th colspan="2"><a align="center" href="https://github.com/Vijyeta18" target="_blank">VIJYETA</th>
     </tr>
     <tr>
       <th><img widht="50" height="50" src="https://avatars.githubusercontent.com/u/37984898?v=4"></th>
       <th><img widht="50" height="50" src="https://avatars.githubusercontent.com/u/84101159?v=4"></th>
     </tr>
     <tr>
-      <th>HARSH</th>
-      <th>MEGHA</th>
+      <th><a align="center" href="https://github.com/HarshPatel7x" target="_blank">HARSH</th>
+      <th><a align="center" href="https://github.com/Meghal1810" target="_blank">MEGHA</th>
     </tr>
   </table>
 </p>
@@ -256,5 +259,5 @@ If you'd like to request a new function, feel free to do so by opening an issue 
 - [Cancellation Policy](https://maphub7.com/CancellationPolicy.html)
 - [FAQ?](https://maphub7.com/FrequentlyAskedQuestions.html)
 
-# Copyright ©
+# © Copyright 
 - [Copyright © 2022 Aviskan Inc](https://www.aviskan.com)
