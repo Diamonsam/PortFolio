@@ -1,263 +1,59 @@
-<a align="center" href="https://maphub7.com" target="_blank">
-  <img width="1437" alt="Track Your Kingdom" src="https://user-images.githubusercontent.com/94591050/207311649-0be05241-fcce-4037-9547-7efd79871347.png">
-</a>
+# SAMIR MISTRY
+```diff
+- Software Engineer
++ Chef
+! Swimmer
+# Ex-Pharma Sales Manager
+@@ Dream Big & Learn continuously@@
+```
 
-# Maphub7
++ this@gmail.com
+- 👋 Hi, I’m @Samir Mistry aka Diamonsam
+- 👀 I’m interested for Full Stack.
+- 🌱 I’m currently learning Java
+- 💞️ I'm curently working as Front-End.
+- 📫 How to reach me @ = samir.mistry1@gmail.com
+<h1 align="center">Hi 👋, I'm Samir Mistry</h1>
 
-<table>
-<tr>
-<td>
-  <p align="center">This repository contains the <strong>Maphub7</strong> source code.<br><br>
-  Maphub7 is a GPS tracking web app which monitors devices location via it's android & apple app installed on devices of your loved one's, your employee's or anyone else with their consent to track their location.</p>
-</td>
-</tr>
-</table>
-
-<p align="center">
-  <a href="#introduction">&nbsp;&#127942;&nbsp;Introduction</a> &nbsp;&#128295;&nbsp;
-  <a href="#installation">Installation</a> &nbsp;&#127759;&nbsp;
-  <a href="#site">Site</a> &nbsp;&#128241;&nbsp;
-  <a href="#mobile-support">Mobile support</a> &nbsp;&#128119;&nbsp;
-  <a href="#developers-accounts">Developers accounts</a> &nbsp;&#128421;&nbsp;
-  <a href="#team">Team</a> &nbsp;&#128221;&nbsp;
-  <a href="#policies">Policies</a> &nbsp;&#127942;&nbsp;
+<p align="center">  <img src="https://user-images.githubusercontent.com/94591050/204526692-067b1650-485b-424d-a58b-756fbf970e8b.png" alt="Diamonsam">
 </p>
 
-# Introduction
-<b>Maphub7</b> is developed by Aviskan Inc. Aviskan Inc Was Founded In 2019 And To Establish Aviskan Inc We Provided Best Software And IT Company Solutions To As Many People As Possible.
+<h3 align="center">A passionate frontend developer learning my ways to Full-stack developer.</h3>
 
-<b>Maphub7 Services :- </b>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=diamonsam&label=Profile%20views&color=0e75b6&style=flat" alt="diamonsam" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=diamonsam" alt="diamonsam" /></a> </p>
 
-- Fetch and display real time location of registered devices on map.
-- Fetch and store location and path of the registered devices.
-- Fetch and track multiple devices using single account.
-- Help find lost devices current location.
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-# Installation
+- 🔭 I’m currently working on [Maphub7](https://maphub7.com/Login.xqy)
 
-##### Web App
-<a href="https://maphub7.com">
-    <img width="154" alt="Maphub7" src="https://user-images.githubusercontent.com/94591050/207293009-450eceb3-e35b-4063-b02c-fc8501c700db.png">
-</a>
+- 🌱 I’m currently learning **React, Java**
 
-##### Apple App
-<a href="https://maphub7.com">
-  <img width="154" alt="Play Store" src="https://user-images.githubusercontent.com/94591050/207295648-59703c85-617f-4ad8-acc5-340b2cfde172.png">
-</a>
+- 👯 I’m looking to collaborate on [Web-Development-Basics](https://github.com/Diamonsam/Web-Development-Basics)
 
-##### Android App
-<a href="https://maphub7.com">
-  <img width="154" alt="App Store" src="https://user-images.githubusercontent.com/94591050/207298046-fa455002-b2e9-4482-9ec2-512e7568a1ac.png">
-</a>
+- 👨‍💻 All of my projects are available at [https://github.com/Diamonsam](https://github.com/Diamonsam)
 
-# Live Maphub7
-Visit Us At  :  https://www.maphub7.com
+- 💬 Ask me about **HTML, CSS, JavaScript**
 
-# Site
+- 📫 How to reach me **samir.mistry1@gmail.com**
 
-## Landing Page
+- 📄 Know about my experiences [https://silly-crostata-2a589b.netlify.app/](https://silly-crostata-2a589b.netlify.app/)
 
-<a align="center" href="https://maphub7.com" target="_blank">
-  <img width="1437" alt="Landing Page" src="https://user-images.githubusercontent.com/94591050/207307068-2b88198a-534f-4ba7-b300-77099209be49.png" >
-</a>
-
-## Profile Page
-
-<a align="center" href="https://maphub7.com" target="_blank">
-  <img width="1436" alt="Profile Page" src="https://user-images.githubusercontent.com/94591050/207312305-c24046b7-bd6b-4eaf-bc56-38b4793799ea.png">
-</a>
-
-## Devices Page
-
-<a align="center" href="https://maphub7.com" target="_blank">
-  <img width="1435" alt="Devices Page" src="https://user-images.githubusercontent.com/94591050/207312521-4585c661-2da3-46e2-8c4c-cb41dd2d168e.png">
-</a>
-
-## About Us Page
-
-<a align="center" href="https://maphub7.com" target="_blank">
-  <img width="1435" alt="About Us Page" src="https://user-images.githubusercontent.com/94591050/207313330-7a5425bf-d934-4a0a-8a08-613120aac73e.png">
-</a>
-
-# Mobile Support
-
-<p align="center">Maphub7 is compatible with devices of all sizes and all OS's, and consistent improvements are being made. </p>
-
-<table>
-  <tr>
-    <th><img width="282" alt="Mobile1" src="https://user-images.githubusercontent.com/94591050/207314502-7e2e032e-14b1-49f0-a28e-4401e19592cd.png"></th>
-    <th><img width="282" alt="Mobile2" src="https://user-images.githubusercontent.com/94591050/207315261-70f68604-542e-4c8c-9dd9-33ebd9e89ddb.png"></th>
-    <th><img width="282" alt="Mobile3" src="https://user-images.githubusercontent.com/94591050/207314627-f3b1cba5-2424-48af-95f2-7bc5ca1d26cb.png"></th>
-    <th><img width="282" alt="Mobile4" src="https://user-images.githubusercontent.com/94591050/207315052-2f723df5-224c-4eae-a96a-f4f7714b3ebc.png"></th>
-  </tr>
-</table>
-
-# Developers Accounts
-
-## 1. Firebase Account.
-- Link :- [Firebase Login](https://firebase.google.com/)
-+ What Is This Used For?
-```diff
-- For Signup New User And Login via Email
-```
-+ Username
-```diff
-this@gmail.com
-```
-+ Password
-```diff
-thisIsPassword
-```
-
-## 2. Facebook Developer Account.
-- Link :- [Facebook Developer Login](https://developers.facebook.com/)
-+ What Is This Used For?
-```diff
-- For Login Via Facebook
-```
-+ Username
-```diff
-maphub7@gmail.com
-```
-+ Password
-```diff
-Chandu@16
-```
-
-## 3. Google Developer Account.
-- Link :- [Google Cloud Login](https://console.cloud.google.com/)
-+ What Is This Used For?
-```diff
-- For Login Via Google
-```
-+ Username
-```diff
-this@gmail.com
-```
-+ Password
-```diff
-thisIsPassword
-```
-
-## 4. Apple Developer Account.
-- Link :- [Apple Developer  Login](https://developer.apple.com/)
-+ What Is This Used For?
-```diff
-- For Apple App
-```
-+ Username
-```diff
-Admin@Aviskan.com
-```
-+ Password
-```diff
-Chandu@16
-```
-+ Authentication Code Sent To
-```diff
-+1-731-937-1797
-```
-
-## 5. Google SEO Console Account.
-- Link :- [Google Search Console For SEO Login](https://search.google.com/search-console/welcome)
-+ What Is This Used For?
-```diff
-- For SEO Ranking
-```
-+ Username
-```diff
-this@gmail.com
-```
-+ Password
-```diff
-thisIsPassword
-```
-
-## 6. Elastic Email Account.
-- Link :- [Elastic Email Login](https://elasticemail.com/)
-+ What Is This Used For?
-```diff
-- For Auto Sending Mails From Javascripts
-```
-+ Username
-```diff
-maphub7@gmail.com
-```
-+ Password
-```diff
-Use Google Signin With Maphub7 Login
-```
-
-# Development
-
-Want to contribute? Great!
-
-To fix a bug or enhance an existing module, follow these steps:
-
-- Fork the repo
-- Create a new branch (`git checkout -b improve-feature`)
-- Make the appropriate changes in the files
-- Add changes to reflect the changes made
-- Commit your changes (`git commit -am 'Improve feature'`)
-- Push to the branch (`git push origin improve-feature`)
-- Create a Pull Request 
-
-# Bug / Feature Request
-
-If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an issue [here](https://github.com/Rajsarj/Kingdom/issues/new) by including your search query and the expected result.
-
-If you'd like to request a new function, feel free to do so by opening an issue [here](https://github.com/Rajsarj/Kingdom/issues/new/choose). Please include sample queries and their corresponding results.
-
-# Built with 
-
-- [HTML](https://www.w3schools.com/html/) - HTML is the standard markup language for Web pages.
-- [CSS](https://www.w3schools.com/css/) - CSS is the language we use to style an HTML document. 
-- [Javascript](https://www.w3schools.com/js/) - JavaScript is the programming language of the Web.
-- [jQuery - Ajax](http://www.w3schools.com/jquery/jquery_ref_ajax.asp) - jQuery simplifies HTML document traversing, event handling, animating, and Ajax interactions for rapid web development.
-- [Google Map API](https://mapsplatform.google.com/) - Google Maps Platform. See where real-world insights and location solutions can take your business.
-- [Bootstrap](http://getbootstrap.com/) - Extensive list of components and  Bundled Javascript plugins.
-
-# Team
-
-<p align="center">
-    <table>
-    <tr>
-      <th rowspan="7">
-        <img widht="200" height="200" src="https://avatars.githubusercontent.com/u/35051937?v=4">
-        <h2 align="center"><a align="center" href="https://github.com/Rajsarj" target="_blank">AVINASH</a></h2>
-      </th>
-    </tr>
-    <tr>
-      <th><img widht="50" height="50" src="https://avatars.githubusercontent.com/u/94591050?v=4"></th>
-      <th><img widht="50" height="50" src="https://avatars.githubusercontent.com/u/92387531?v=4"></th>
-    </tr>
-    <tr>
-      <th><a align="center" href="https://github.com/Diamonsam" target="_blank">SAMIR </th>
-      <th><a align="center" href="https://github.com/ppatel2777" target="_blank">PRITI</th>
-    </tr>
-    <tr>
-      <th colspan="2"><img widht="50" height="50" src="https://avatars.githubusercontent.com/u/92387457?v=4"></th>
-    </tr>
-    <tr>
-      <th colspan="2"><a align="center" href="https://github.com/Vijyeta18" target="_blank">VIJYETA</th>
-    </tr>
-    <tr>
-      <th><img widht="50" height="50" src="https://avatars.githubusercontent.com/u/37984898?v=4"></th>
-      <th><img widht="50" height="50" src="https://avatars.githubusercontent.com/u/84101159?v=4"></th>
-    </tr>
-    <tr>
-      <th><a align="center" href="https://github.com/HarshPatel7x" target="_blank">HARSH</th>
-      <th><a align="center" href="https://github.com/Meghal1810" target="_blank">MEGHA</th>
-    </tr>
-  </table>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/samir-mistry-984480235" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samir-mistry-984480235" height="30" width="40" /></a>
+<a href="https://fb.com/samir.mistry.733" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="samir.mistry.733" height="30" width="40" /></a>
+<a href="https://instagram.com/samir.mistry1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="samir.mistry1" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/samir_mistry1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="samir_mistry1" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/user3667t" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="user3667t" height="30" width="40" /></a>
 </p>
-                                                                                                  
-# Policies
-- [Terms & Conditions](https://maphub7.com/TermsAndConditions.html)
-- [Privacy Policy](https://maphub7.com/PrivacyPolicy.html)
-- [Cancellation Policy](https://maphub7.com/CancellationPolicy.html)
-- [FAQ?](https://maphub7.com/FrequentlyAskedQuestions.html)
 
-# © Copyright 
-- [Copyright © 2022 Aviskan Inc](https://aviskan.com/)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=diamonsam&show_icons=true&locale=en&layout=compact" alt="diamonsam" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=diamonsam&show_icons=true&locale=en" alt="diamonsam" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=diamonsam&" alt="diamonsam" /></p>
