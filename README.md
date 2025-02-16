@@ -37,7 +37,6 @@
 
 - 📫 How to reach me **samir.mistry1@gmail.com**
 
-- 📄 Know about my experiences [https://silly-crostata-2a589b.netlify.app/](https://silly-crostata-2a589b.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
